@@ -1,4 +1,4 @@
-# a-programmatic-framework
+# A Programmatic Framework
 This paper presents a conceptual and operational framework intended to guide systematic investigation of these questions through iterative synthetic system development and evaluation.
 
 
@@ -17,4 +17,4 @@ You **may not**:
 
 For permission to copy, create derivatives, or use commercially, contact: [vimal.naran@conscious-machines.org](mailto:vimal.naran@conscious-machines.org)
 
-© 2026 Vimal Naran. All rights reserved.[page:0]
+© 2026 Vimal Naran. All rights reserved.
